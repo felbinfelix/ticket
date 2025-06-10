@@ -1,0 +1,117 @@
+import requests
+from datetime import datetime
+
+API_KEY = "ntL1UBMbp66sgxrDXnD5"
+DOMAIN = "entab"
+AUTH = (API_KEY, "X")
+
+GROUPS = {
+    1060000223277: "10X-Parvez-PD",
+    1060000223275: "10X-Arpit-PD",
+    1060000191930: "10X-Atul-PD",
+    1060000191937: "10X-Sandhya-PD",
+    1060000223274: "10X-Shobia-PD",
+    1060000241323: "Backlog",
+    1060000338969: "Delta Backlog",
+    1060000192412: "10X-Upgrade",
+}
+
+UNRESOLVED_STATUS_IDS = [
+    2, 3, 4, 6, 7, 8, 9, 10, 11,
+    12, 13, 14, 16, 17, 20, 21,
+    23, 24, 25, 26
+]
+
+def fetch_unresolved_ticket_details(group_id):
+    url = f"https://{DOMAIN}.freshdesk.com/api/v2/search/tickets"
+    status_query = " OR ".join([f"status:{s}" for s in UNRESOLVED_STATUS_IDS])
+    query = f'"group_id:{group_id} AND ({status_query})"'
+
+    tickets = []
+    page = 1
+
+    while True:
+        params = {"query": query, "page": page}
+        response = requests.get(url, auth=AUTH, params=params)
+
+        if response.status_code != 200:
+            print(f"❌ Error fetching tickets for group {group_id}: {response.status_code} - {response.text}")
+            break
+
+        data = response.json()
+        results = data.get("results", [])
+        tickets.extend(results)
+
+        if len(results) < 30:
+            break
+        page += 1
+
+    return tickets
+
+# Build HTML
+html = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Unresolved Tickets by Group</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    body { padding: 2rem; background-color: #f8f9fa; }
+    h2 { margin-top: 2rem; }
+    table { margin-bottom: 3rem; }
+    .table-container { margin-bottom: 3rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center mb-4">Unresolved Tickets by Group</h1>
+"""
+
+for group_id, group_name in GROUPS.items():
+    tickets = fetch_unresolved_ticket_details(group_id)
+    if not tickets:
+        continue
+
+    html += f"<div class='table-container'><h2>{group_name} — {len(tickets)} tickets</h2>"
+    html += """
+    <table class="table table-bordered table-striped">
+      <thead class="table-dark">
+        <tr>
+          <th>ID</th>
+          <th>Type</th>
+          <th>Status</th>
+          <th>Priority</th>
+          <th>Created At</th>
+          <th>Subject</th>
+        </tr>
+      </thead>
+      <tbody>
+    """
+
+    for t in tickets:
+        html += f"""
+        <tr>
+          <td>{t['id']}</td>
+          <td>{t.get('type', 'Unspecified')}</td>
+          <td>{t['status']}</td>
+          <td>{t['priority']}</td>
+          <td>{datetime.strptime(t['created_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d %H:%M")}</td>
+          <td>{t['subject']}</td>
+        </tr>
+        """
+
+    html += "</tbody></table></div>"
+
+html += """
+  </div>
+</body>
+</html>
+"""
+
+# Write to file
+with open("unresolved_tickets.html", "w", encoding="utf-8") as f:
+    f.write(html)
+
+print("✅ HTML file generated: unresolved_tickets.html")

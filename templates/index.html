@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Freshdesk Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="dashboard-container">
+    <header>
+      <h1>🎫 Freshdesk Ticket Dashboard</h1>
+      <button onclick="syncData()">🔄 Sync</button>
+    </header>
+
+    <section class="summary">
+      <div class="card closed">
+        <h2>🔴 Closed</h2>
+        <p id="closed-count">0</p>
+      </div>
+      <div class="card reopened">
+        <h2>🟢 Reopened</h2>
+        <p id="reopened-count">0</p>
+      </div>
+    </section>
+
+    <section class="table-section">
+      <h2>📋 Tickets</h2>
+      <div id="group-tabs" class="tab-buttons"></div>
+      <div id="table-container" class="table-wrapper">Loading...</div>
+    </section>
+  </div>
+  <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

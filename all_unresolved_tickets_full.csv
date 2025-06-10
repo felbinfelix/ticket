@@ -1,0 +1,227 @@
+ID,Subject,Group Name,Status,Priority,Created At,Age (in Days),Tags,Requester Email,Responder ID,School Code,Priority Reason,Module,Type
+1002586,Reg. Staff Documents Upload || ASSISI,10X-Sandhya-PD,8,1,2024-06-10T06:48:44Z,363,"WFC, Staff Administration and Payroll, Backlog, Product Head Reviewed",,1060001529614,,,Staff Administration & Payroll,Change Request
+1096494,Inter School Transfer || St. Augustine Day School,10X-Sandhya-PD,8,1,2024-09-19T12:07:54Z,262,"Staff Administration and Payroll, WFC, Confirmation Given, Backlog, Product Head Reviewed",,1060027877850,,,Staff Administration & Payroll,Change Request
+1181975,Import facilities for pay information,10X-Sandhya-PD,8,1,2024-12-30T12:16:03Z,160,"Staff Administration and Payroll, Product Head Reviewed",,1060018581359,,,Staff Administration & Payroll,Prod. Enhancement
+1182365,"Reg: Staff Portal||1995#Ambience Public School, Gurgaon, Haryana",10X-Sandhya-PD,8,1,2024-12-31T06:50:16Z,159,"Prod. Enhancement, Backlog, WFC, Confirmation Given, Staff Administration and Payroll, Product Head Reviewed",,1060001529614,,,Staff Administration & Payroll,Prod. Enhancement
+1191843,"867#D A V Public School, Sector-37, Faridabad || (Product upgradation in to 10X)",10X-Parvez-PD,8,1,2025-01-10T05:04:52Z,149,"Delta Discussed, WFC, Confirmation Given, Product Head Reviewed",,1060027877850,,,10X Upgrade,Prod. Enhancement
+1232841,"Pacific World School, Gr. Noida #1056 || 10x Upgrade",10X-Shobia-PD,8,1,2025-02-23T18:01:30Z,105,"Delta Discussed, WFC, Confirmation Given, SLA Extn",,1060004324401,,,10X Upgrade,Prod. Enhancement
+1233842,Reg- Payroll report (10X Upgrade),10X-Sandhya-PD,8,1,2025-02-24T09:31:48Z,104,"Staff Administration and Payroll, Delta Discussed, WFC, Confirmation Given",,1060027877850,,,Staff Administration & Payroll,Change Request
+1234690,Staff Late in Mail || JSHLPB,10X-Sandhya-PD,8,2,2025-02-25T05:52:04Z,103,"SMS, Product Head Reviewed, WFC, Confirmation Given",,1060023086492,,,Sms System,Change Request
+1244237,Regarding Payroll report,10X-Sandhya-PD,8,1,2025-03-05T10:04:41Z,95,"Staff Administration and Payroll, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060004975270,,,Staff Administration & Payroll,Change Request
+1245870,Requirement in Student Attendance,10X-Sandhya-PD,8,1,2025-03-06T13:20:00Z,94,"Backlog, Product Head Reviewed",,1060001529614,,,Student Attendance,Change Request
+1245868,Requirements in Staff Leave & Attendance,10X-Sandhya-PD,8,3,2025-03-06T13:18:30Z,94,"Staff Attendance and Leave, Backlog, Product Head Reviewed",,1060001529614,,,Staff Attendance and Leave,Change Request
+1245857,Requirements in School Online / Portals,10X-Sandhya-PD,8,1,2025-03-06T13:03:31Z,94,"School Online, Backlog, Product Head Reviewed",,1060001529614,,,School Online,Change Request
+1247760,Conditions to be made in Report Cards of Class IX & XI,10X-Shobia-PD,8,3,2025-03-08T06:41:53Z,92,"Examination, TL Review, Prod. Enhancement, SLA Extn",,1060004325607,,,Examination & Result Analysis,Prod. Enhancement
+1254965,"New Staff Report ""STAFF PERSONAL DETAILS"" || #786 SHISMT",10X-Parvez-PD,16,1,2025-03-15T12:05:22Z,85,"Staff Administration and Payroll, TL Review, WFC, Confirmation Given, Product Head Reviewed",,1060023087366,,,Staff Administration & Payroll,Change Request
+1263473,Need a consolidated report which can be generated classwise,10X-Shobia-PD,8,3,2025-03-21T14:30:46Z,79,"Examination, TL Review, Backlog",,1060004325607,,,Examination & Result Analysis,Change Request
+1266245,Mark Entry List Report modification,10X-Sandhya-PD,8,3,2025-03-24T14:01:58Z,76,"Student Inforamtion, TL Review, Backlog, Prod. Enhancement, Product Head Reviewed, WFC, Confirmation Given",,1060023084071,,,Student Information,Prod. Enhancement
+1267539,"Logs for ""report card upload / report card setting and report card generation || # 1923",10X-Shobia-PD,8,1,2025-03-25T11:48:41Z,75,"Examination, TL Review, SLA Extn",,1060004324401,,,Examination & Result Analysis,Change Request
+1274073,Transport Information,10X-Atul-PD,8,1,2025-03-31T10:35:58Z,69,"Transport Management, TL Review, Backlog, Product Head Reviewed, WFC, Confirmation Given",,1060001536356,,,Transport Management,Prod. Enhancement
+1273723,SMS for birthday greetings,10X-Atul-PD,8,2,2025-03-31T06:16:14Z,69,"SMS, TL Review, Product Head Reviewed",,1060001536356,,,Sms System,Prod. Enhancement
+1280010,Drag a column header here to group its column not working,10X-Sandhya-PD,8,4,2025-04-04T07:01:39Z,65,"Student Inforamtion, TL Review, WFC, Confirmation Given, Prod. Enhancement, Product Head Reviewed",,1060004975270,,,Student Information,Prod. Enhancement
+1287300,Attendance-Staff Portal,10X-Parvez-PD,16,1,2025-04-10T13:00:12Z,59,"Staff Administration and Payroll, Prod. Enhancement, Product Head Reviewed, WFC",,1060019283783,,,Staff Administration & Payroll,Prod. Enhancement
+1287167,Gender Wise Circular,10X-Sandhya-PD,8,1,2025-04-10T10:51:40Z,59,"School Online, Product Head Reviewed",,1060023083789,,,School Online,Prod. Enhancement
+1287164,Student Promotion Defaulter BRD,10X-Sandhya-PD,8,1,2025-04-10T10:50:00Z,59,"Student Inforamtion, Product Head Reviewed",,1060001529614,,,Student Information,Prod. Enhancement
+1286903,Staff Attendance Report => Staff Detailed Work Duration Report,10X-Sandhya-PD,8,1,2025-04-10T08:12:55Z,59,"Staff Attendance and Leave, WFC, Confirmation Given, Product Head Reviewed, Prod. Enhancement",,1060004975270,,,Staff Attendance and Leave,Prod. Enhancement
+1290950,Attendance Certificate #914,10X-Sandhya-PD,8,1,2025-04-15T05:18:41Z,54,"Student Inforamtion, Product Head Reviewed",,1060023085592,,,Student Information,Change Request
+1296137,SMS Module || JSHLPB,10X-Atul-PD,8,3,2025-04-21T06:07:01Z,48,"SMS, Product Head Review, Prod. Enhancement, WFC, Confirmation Given",,1060002872631,,,Sms System,Prod. Enhancement
+1295839,SMS for Birthday || JSHLPB,10X-Atul-PD,8,3,2025-04-21T04:33:30Z,48,"SMS, Prod. Enhancement, Product Head Review, Product Head Reviewed",,1060023085785,,,Sms System,Prod. Enhancement
+1298100,SMS-  Display shared image inline within the  message body,10X-Atul-PD,8,1,2025-04-22T09:46:29Z,47,"SMS, TL Review",,1060004975270,,,Sms System,Prod. Enhancement
+1299628,Intra School Transfer || HISSJR,10X-Sandhya-PD,8,1,2025-04-23T11:51:08Z,46,"Student Inforamtion, Prod. Enhancement",,1060023084904,,,Student Information,Prod. Enhancement
+1299620,School Online Dashboard,10X-Arpit-PD,16,1,2025-04-23T11:42:08Z,46,"School Online, Product Head Reviewed, WFC",,1060014525993,,,School Online,Prod. Enhancement
+1300806,Tax need to calculate as per new tax regim,10X-Sandhya-PD,8,3,2025-04-24T11:45:06Z,45,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Change Request
+1301862,Automatic Transfer Certificate Fee Assignment,10X-Atul-PD,8,1,2025-04-25T11:40:32Z,44,"Student Inforamtion, Product Head Reviewed",,1060001536356,,,Student Information,Change Request
+1302334,Regarding COMP OFF auto approval,10X-Sandhya-PD,8,2,2025-04-26T08:08:02Z,43,"Staff Attendance and Leave, TL Review",,1060001529614,,,Staff Attendance and Leave,Prod. Enhancement
+1302066,Group Message,10X-Sandhya-PD,8,1,2025-04-26T04:17:03Z,44,"School Online, TL Review, Prod. Enhancement",,1060004975270,,,School Online,Prod. Enhancement
+1303451,CONTRA VOUCHER FORMAT || #786 SHISMT,10X-Atul-PD,8,3,2025-04-28T09:26:41Z,41,"Financial Accounting, TL Review, WFC, Confirmation Given",,1060004975270,,,Financial Accounting,Change Request
+1303045,"Reg - Fee Analysis || 1187#Ben-Hur Public School, Pilibhit (UP)",10X-Atul-PD,8,1,2025-04-28T06:03:08Z,41,"Fee & Billing, TL Review, WFC, Confirmation Given",,1060023085785,,,Fee and Billing,Change Request
+1303006,Need to add the provision to add the auto leave deduction,10X-Sandhya-PD,16,1,2025-04-28T05:38:51Z,41,"Staff Administration and Payroll, TL Review, WFC, Confirmation Given, Prod. Enhancement, Product Head Reviewed",,1060004975270,,,Staff Administration & Payroll,Prod. Enhancement
+1304700,"Regarding Parent mobile application and web portal(814#J K Public School, Kunjwani, Jammu)",10X-Atul-PD,8,2,2025-04-29T10:05:07Z,40,"School Online, TL Review, WFC, Confirmation Given",,1060004975270,,,School Online,Change Request
+1304197,Monthly Days wise collection in School Fee Report || #2040 STBASIL,10X-Atul-PD,8,3,2025-04-29T05:37:16Z,40,"Fee & Billing, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060004975270,,,Fee and Billing,Change Request
+1303862,"Mary Mount, Kattachira # 1991 (Reg : Changes in Section Fee Group Assigner)",10X-Sandhya-PD,8,3,2025-04-29T01:14:22Z,41,Student Inforamtion,,1060004975270,,,Student Information,Prod. Enhancement
+1305576,Internal Message Issue-> 1940#Aditya Birla Intermediate College,10X-Sandhya-PD,8,1,2025-04-30T07:33:01Z,39,"School Online, TL Review, Prod. Enhancement, Product Head Reviewed",,1060004975270,,,School Online,Prod. Enhancement
+1305571,Exam Requirement.,10X-Shobia-PD,16,1,2025-04-30T07:29:23Z,39,"Examination, Prod. Enhancement, WFC",,1060004325487,,,Examination & Result Analysis,Prod. Enhancement
+1306643,"Unable to see the Approved Parent concerns(2131#Cornerstone, Serilingampally, Telangana)",10X-Sandhya-PD,8,1,2025-05-01T08:23:16Z,38,"School Online, TL Review",,1060004975270,,,School Online,Change Request
+1308838,Regarding payroll report,10X-Sandhya-PD,8,3,2025-05-03T11:34:00Z,36,"Staff Administration and Payroll, TL Review",,1060023084288,,,Staff Administration & Payroll,Change Request
+1308816,REG: addition of fields #1940,10X-Sandhya-PD,8,1,2025-05-03T11:10:29Z,36,"Student Inforamtion, TL Review, Prod. Enhancement",,1060004324590,,,Student Information,Prod. Enhancement
+1310010,Regarding the modification in the acquitance roll,10X-Parvez-PD,8,1,2025-05-05T10:56:45Z,34,"Staff Administration and Payroll, TL Review",,1060019283783,,,Staff Administration & Payroll,Prod. Enhancement
+1309506,From ENTAB |Regarding Fee group wise wise discount setting||entab.online/SCWPUC,10X-Atul-PD,8,1,2025-05-05T06:11:14Z,34,"Fee & Billing, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060001536356,,,Fee and Billing,Change Request
+1311401,Datewise Assigner List Delta,10X-Atul-PD,8,1,2025-05-06T11:12:23Z,33,"Transport Management, Delta Discussed, WFC, Confirmation Given",,1060023085785,,,Transport Management,Prod. Enhancement
+1311387,Filter in PDF export for Dynamic Student Reports || SJSBLA,10X-Sandhya-PD,8,1,2025-05-06T11:03:54Z,33,"Student Inforamtion, TL Review, Product Head Reviewed",,1060023084071,,,Student Information,Change Request
+1311306,"248#Red Roses Public School, Saket (Product upgradation in to 10X)",10X-Parvez-PD,8,1,2025-05-06T10:12:47Z,33,,,1060018581359,,,10X Upgrade,Prod. Enhancement
+1311270,1327#Viaan International School (Product upgradation in to 10X),10X-Atul-PD,8,1,2025-05-06T09:52:13Z,33,"Delta Discussed, Product Head Reviewed",,1060023085785,,,10X Upgrade,Prod. Enhancement
+1311213,"1150#Our Lady Queen of The Mission School, Kolkata (Product upgradation in to 10X)",10X-Atul-PD,8,1,2025-05-06T09:28:17Z,33,,,1060004975270,,,10X Upgrade,Prod. Enhancement
+1311198,"1041#Ira International School, Butibori-Nagpur (Product upgradation in to 10X)",10X-Parvez-PD,8,1,2025-05-06T09:22:12Z,33,Staff Administration and Payroll,,1060027877850,,,Staff Administration & Payroll,Prod. Enhancement
+1311178,"1452#Vishal Bharti Public School, Paschim Vihar, New Delhi (Product upgradation in to 10X)",10X-Atul-PD,8,1,2025-05-06T09:11:04Z,33,"Fee & Billing, Delta Discussed, Product Head Reviewed",,1060023085785,,,Fee and Billing,Prod. Enhancement
+1311170,"1451#DAV Police Public School, Panchkula, Punjab (Delta )",10X-Atul-PD,8,1,2025-05-06T09:07:59Z,33,"Fee & Billing, Delta Discussed, WFC, Confirmation Given, Product Head Reviewed",,1060023085785,,,Fee and Billing,Prod. Enhancement
+1310995,Need changes in Route change and Route Withdrawal,10X-Atul-PD,8,1,2025-05-06T07:18:21Z,33,Transport Management,,1060004975270,,,Transport Management,Change Request
+1310885,Regarding Payroll report,10X-Parvez-PD,8,3,2025-05-06T06:35:02Z,33,"Staff Administration and Payroll, TL Review, Prod. Enhancement",,1060019283783,,,Staff Administration & Payroll,Prod. Enhancement
+1310847,Transport > Bus Route Request > Multi Instalment payment,10X-Atul-PD,8,2,2025-05-06T06:21:20Z,33,"Transport Management, Product Head Reviewed",,1060001536356,,,Transport Management,Change Request
+1310761,Regarding Fee report,10X-Atul-PD,8,1,2025-05-06T05:50:20Z,33,"Fee & Billing, TL Review",,1060004975270,,,Fee and Billing,Prod. Enhancement
+1310638,"Mary Mount, Kattachira # 1991 (Reg : Promotion of Hostellers not happening)",10X-Sandhya-PD,8,3,2025-05-06T05:07:32Z,33,Student Inforamtion,,1060023084904,,,Student Information,Prod. Enhancement
+1312735,Reg. Fine Settings || #2086 HTSJSR,10X-Atul-PD,8,3,2025-05-07T12:34:12Z,32,"Fee & Billing, TL Review, WFC, Product Head Reviewed, Confirmation Given",,1060004975270,,,Fee and Billing,Change Request
+1312696,Student information new report,10X-Sandhya-PD,8,1,2025-05-07T12:01:23Z,32,"TL Review, Delta Discussed, WFC, Confirmation Given",,1060004324169,,,10X Upgrade,Prod. Enhancement
+1312578,Need a New Report Format,10X-Sandhya-PD,8,1,2025-05-07T11:02:18Z,32,"Student Attendance, TL Review",,1060004975270,,,Student Attendance,Prod. Enhancement
+1312382,STUDENT LEAVING CERTIFICATE,10X-Sandhya-PD,8,1,2025-05-07T09:19:40Z,32,"Student Inforamtion, Prod. Enhancement, TL Review, Product Head Reviewed",,1060023084071,,,Student Information,Prod. Enhancement
+1312005,Reg- Add more field,10X-Sandhya-PD,8,3,2025-05-07T06:07:14Z,32,"Student Inforamtion, Prod. Enhancement",,1060004975270,,,Student Information,Prod. Enhancement
+1313763,"Need to add one more column name name “Sibling Inform in Fee Concession Approval  form,",10X-Atul-PD,8,1,2025-05-08T11:48:24Z,31,"Fee & Billing, TL Review, Product Head Reviewed",,1060001536356,,,Fee and Billing,Change Request
+1312980,Concession Entry,10X-Atul-PD,16,2,2025-05-08T04:34:25Z,31,"Fee & Billing, Product Head Reviewed, WFC",,1060004975270,,,Fee and Billing,Change Request
+1314589,"Regarding Report generation(1934#St. Charles Women's PU College, Bengaluru, Karnataka)",10X-Atul-PD,8,1,2025-05-09T08:38:13Z,30,"Fee & Billing, TL Review, Prod. Enhancement",,1060001536356,,,Fee and Billing,Prod. Enhancement
+1314008,Salary Slip Through Mail || JSHLPB,10X-Sandhya-PD,8,1,2025-05-09T04:02:57Z,31,"Staff Administration and Payroll, Prod. Enhancement, Product Head Reviewed",,1060023084288,,,Staff Administration & Payroll,Prod. Enhancement
+1313957,Reg - Fee Structure Amount Showing in Dues,10X-Atul-PD,8,1,2025-05-09T03:36:11Z,31,"Fee & Billing, Prod. Enhancement, TL Review",,1060004975270,,,Fee and Billing,Prod. Enhancement
+1316249,"Notification || 2129#Shree Sakchi Gujarati English School, Kasidih, Jharkhand",10X-Atul-PD,8,2,2025-05-12T09:03:31Z,27,"SMS, Prod. Enhancement",,1060023085785,,,Sms System,Prod. Enhancement
+1316158,absent should mark in to LWP,10X-Sandhya-PD,16,3,2025-05-12T07:51:24Z,27,"Staff Attendance and Leave, Prod. Enhancement, TL Review, Product Head Reviewed, WFC",,1060004975270,,,Staff Attendance and Leave,Prod. Enhancement
+1316116,Excess Adjustment,10X-Atul-PD,8,3,2025-05-12T07:20:00Z,27,"Fee & Billing, Prod. Enhancement",,1060004975270,,,Fee and Billing,Prod. Enhancement
+1316072,"SMS || Shree Sakchi Gujarati English School, Kasidih, Jharkhand",10X-Sandhya-PD,8,1,2025-05-12T06:56:55Z,27,"SMS, Prod. Enhancement, Product Head Reviewed",,1060023084071,,,Sms System,Prod. Enhancement
+1315916,POS Android Machine Integration.,10X-Atul-PD,8,3,2025-05-12T05:55:42Z,27,Fee & Billing,,1060004975270,,,Fee and Billing,Change Request
+1317104,Multiyear collection report & Transport report,10X-Atul-PD,8,2,2025-05-13T08:23:40Z,26,"Fee & Billing, TL Review, Product Head Reviewed",,1060004975270,,,Fee and Billing,Change Request
+1318456,WhatsApp Integration,10X-Atul-PD,16,2,2025-05-14T11:53:44Z,25,WFC,,1060001536356,,,Whatsapp,Change Request
+1318287,Need changes in staff id card,10X-Sandhya-PD,8,2,2025-05-14T09:57:18Z,25,"Staff Attendance and Leave, TL Review, WFC, Confirmation Given",,1060001529614,,,Staff Attendance and Leave,Change Request
+1319562,Regarding Fee and Billing report in excel.,10X-Atul-PD,8,1,2025-05-15T12:43:06Z,24,"Fee & Billing, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060023085785,,,Fee and Billing,Prod. Enhancement
+1319492,Unpaid parents Pop-up Notification required for Clear Dues both Branches,10X-Atul-PD,8,1,2025-05-15T11:25:24Z,24,"School Online, TL Review",,1060004975270,,,School Online,Prod. Enhancement
+1319475,Partial Payment,10X-Atul-PD,8,2,2025-05-15T11:04:49Z,24,"Mobile App, Fee & Billing",,1060004975270,,,Fee and Billing,Change Request
+1319463,Regarding Student Enquiry Data,10X-Atul-PD,8,3,2025-05-15T10:57:13Z,24,"Registration, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060001536356,,,Registration & Admission,Change Request
+1319404,How to apply compensatory leave (Comp off) through app  for Teaching or Non Teaching Staff .App showing Leave Not Assign,10X-Sandhya-PD,8,1,2025-05-15T10:20:05Z,24,"Staff Attendance and Leave, TL Review, Product Head Reviewed",,1060004975270,,,Staff Attendance and Leave,Prod. Enhancement
+1319384,Security Adjust,10X-Atul-PD,8,1,2025-05-15T10:09:15Z,24,"Fee & Billing, Product Head Reviewed",,1060001536356,,,Fee and Billing,Prod. Enhancement
+1319211,Subject and Exam wise Grade setting,10X-Shobia-PD,16,1,2025-05-15T07:54:28Z,24,"Examination, WFC, Product Head Reviewed",,1060004325487,,,Examination & Result Analysis,Prod. Enhancement
+1319181,Excess in Student Ledger,10X-Atul-PD,8,4,2025-05-15T07:36:50Z,24,Fee & Billing,,1060004975270,,,Fee and Billing,Change Request
+1319068,Regarding Student Report,10X-Sandhya-PD,8,3,2025-05-15T06:36:11Z,24,"Student Inforamtion, TL Review, Prod. Enhancement, Product Head Reviewed",,1060004324590,,,Student Information,Prod. Enhancement
+1319060,In Payroll => Payroll Report => Salary Statement For Bank,10X-Sandhya-PD,8,1,2025-05-15T06:33:44Z,24,Staff Administration and Payroll,,1060001529614,,,Staff Administration & Payroll,Change Request
+1318929,In Payroll => Payroll Reports => PaySlip,10X-Sandhya-PD,8,1,2025-05-15T05:42:43Z,24,Staff Administration and Payroll,,1060023084288,,,Staff Administration & Payroll,Change Request
+1318734,Customize landing page || #1093 HBSJBD,10X-Sandhya-PD,8,3,2025-05-15T04:21:30Z,24,"Preference, TL Review, Prod. Enhancement",,1060004975270,,,Preference,Prod. Enhancement
+1320553,Regarding SMS for Student Gate pass || CODE: ISRJR,10X-Sandhya-PD,8,1,2025-05-16T11:22:08Z,23,"SMS, TL Review",,1060023084288,,,Sms System,Prod. Enhancement
+1320464,"Need to Add E-nach Filter|| 1369#G.D Goenka Public School, Patna",10X-Atul-PD,8,1,2025-05-16T10:12:33Z,23,"SMS, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060023085785,,,Sms System,Change Request
+1320408,"Staff Information || Adani Gems School of Excellence, Lucknow, Uttar Pradesh",10X-Sandhya-PD,8,3,2025-05-16T09:36:37Z,23,"Staff Administration and Payroll, Product Head Reviewed",,1060001529614,,,Staff Administration & Payroll,Change Request
+1320385,Regarding Addition of short leave- 10X,10X-Sandhya-PD,8,2,2025-05-16T09:20:47Z,23,"Staff Attendance and Leave, TL Review, WFC, Confirmation Given, Product Head Reviewed",,1060004975270,,,Staff Attendance and Leave,Change Request
+1320284,Service Charge setup required in Amount,10X-Atul-PD,8,1,2025-05-16T08:11:32Z,23,"Fee & Billing, Product Head Reviewed",,1060023085785,,,Fee and Billing,Change Request
+1322085,School want Homework/Assignment MIS auto mail need send to management email id,10X-Sandhya-PD,8,1,2025-05-19T12:02:06Z,20,"School Online, WFC, Product Head Reviewed, Confirmation Given",,1060023084071,,,School Online,Change Request
+1322065,Time duration hours showing wrong for all staff all Branches under Staff Detailed Work Duration Report,10X-Sandhya-PD,8,2,2025-05-19T11:23:01Z,20,"Staff Attendance and Leave, TL Review",,1060004975270,,,Staff Attendance and Leave,Change Request
+1323061,Regarding salary generation,10X-Sandhya-PD,8,2,2025-05-20T12:54:50Z,19,"Staff Administration and Payroll, TL Review",,1060023084288,,,Staff Administration & Payroll,Change Request
+1323030,"Column Addition in Circular-> 1938#HindalcoPrimary School,Unit-3,Renukoot,Uttar Pradesh",10X-Sandhya-PD,8,3,2025-05-20T11:56:25Z,19,"School Online, TL Review, Product Head Reviewed",,1060023083789,,,School Online,Change Request
+1322519,"Enhancement Request in Fine Setting(1895#Cambrian Public School, Ranchi, Jharkhand)",10X-Atul-PD,8,1,2025-05-20T06:00:15Z,19,"Fee & Billing, Prod. Enhancement, TL Review",,1060004975270,,,Fee and Billing,Prod. Enhancement
+1322444,"Student Reports || SHCSCI || 1247#Sacred Heart Convent School, Chandausi , UP",10X-Sandhya-PD,8,3,2025-05-20T05:26:59Z,19,"Student Inforamtion, TL Review, Product Head Reviewed",,1060023084071,,,Student Information,Change Request
+1322384,REG FEE AND BILLING (Student Defaulter Detail report),10X-Atul-PD,8,3,2025-05-20T04:57:24Z,19,"Fee & Billing, TL Review, Product Head Reviewed",,1060023085785,,,Fee and Billing,Change Request
+1323608,"Kindly Provide form Staff Information -> ""Rating of Teacher""",10X-Sandhya-PD,16,1,2025-05-21T07:36:48Z,18,"Student Inforamtion, Deviation, TL Review, Staff Administration and Payroll, Product Head Reviewed, WFC",,1060001529614,,,Staff Administration & Payroll,Deviation
+1323563,Net Pay is not getting impacted,10X-Sandhya-PD,8,1,2025-05-21T07:14:41Z,18,"Staff Administration and Payroll, Product Head Reviewed",,1060023084288,,,Staff Administration & Payroll,Change Request
+1324726,Provision in student attendance,10X-Sandhya-PD,8,1,2025-05-22T09:28:28Z,17,"TL Review, Student Attendance, Product Head Reviewed",,1060023086492,,,Student Attendance,Prod. Enhancement
+1324688,Newspaper Receipt and  Newspaper Subscription Report,10X-Sandhya-PD,8,1,2025-05-22T09:00:51Z,17,"Library, TL Review",,1060018581359,,,Library Management,Prod. Enhancement
+1324567,Regarding route wise detail report,10X-Atul-PD,8,2,2025-05-22T07:42:36Z,17,"Transport Management, Prod. Enhancement, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060001536356,,,Transport Management,Prod. Enhancement
+1324270,"Reg - Staff Retirement Age || # 137 St. Joseph's Higher Sec. School, Baramulla",10X-Sandhya-PD,8,2,2025-05-22T05:31:55Z,17,"Staff Administration and Payroll, Prod. Enhancement, TL Review",,1060023084288,,,Staff Administration & Payroll,Prod. Enhancement
+1324232,"NEED RECEIPT GROUP COLLECTION REPORT || 851#Sacred Heart Public School, S. H. Mount, Kottayam",10X-Atul-PD,8,3,2025-05-22T05:14:10Z,17,Fee & Billing,,1060004325688,,,Fee and Billing,Change Request
+1324170,Fwd: Key for BDUAT2K562- HIGHLY CONFIDENTIAL!!!,10X-Atul-PD,16,4,2025-05-22T04:36:27Z,17,"Fee & Billing, Prod. Enhancement, WFC",,1060001536356,,,Fee and Billing,Prod. Enhancement
+1325649,"Reg. Fee Collection || 197#St. Josephs School, Khorabar, Gorakhpur",10X-Atul-PD,8,4,2025-05-23T11:16:51Z,16,"Fee & Billing, TL Review",,1060001536356,,,Fee and Billing,Change Request
+1325443,"Staff Dashboard || International School, Rajouri, Jammu",10X-Sandhya-PD,8,1,2025-05-23T08:08:34Z,16,"Staff Administration and Payroll, Product Head Reviewed",,1060001529614,,,Staff Administration & Payroll,Change Request
+1326237,Need to add Collection type HDFC,10X-Atul-PD,8,3,2025-05-26T04:33:32Z,13,Fee & Billing,,1060004975270,,,Fee and Billing,Change Request
+1327671,Report Card PDF (Migrated) display in Parent Portal,10X-Shobia-PD,8,1,2025-05-27T12:21:20Z,12,Examination,,1060004325487,,,Examination & Result Analysis,Prod. Enhancement
+1327647,Request for Result Analysis in Attached Format – Session 2024–25 || CODE: VKVRDV,10X-Shobia-PD,8,3,2025-05-27T11:39:56Z,12,"Examination, TL Review, Prod. Enhancement",,1060004325607,,,Examination & Result Analysis,Prod. Enhancement
+1327646,Reg - fine issue for previous arrear,10X-Atul-PD,8,1,2025-05-27T11:37:28Z,12,"Fee & Billing, TL Review",,1060004975270,,,Fee and Billing,Prod. Enhancement
+1327559,Fee and Billing,10X-Atul-PD,8,1,2025-05-27T09:47:53Z,12,"Fee & Billing, TL Review, Product Head Reviewed",,1060004325688,,,Fee and Billing,Change Request
+1327528,"regarding student defaulter detail (1243#Sacred Heart Convent High School, Kathua , J&K )",10X-Atul-PD,8,3,2025-05-27T09:28:14Z,12,"Fee & Billing, TL Review, Product Head Reviewed",,1060001536356,,,Fee and Billing,Prod. Enhancement
+1327443,"Sacred Heart, Kottayam # 851(Reg : Display of Previous Year Defaulter Status in Fee Collection form)",10X-Atul-PD,8,3,2025-05-27T08:14:05Z,12,Fee & Billing,,1060004975270,,,Fee and Billing,Prod. Enhancement
+1327414,Session 2024-2025 #Online Settlement Status #Showing Generated successfully but not coming in Settlement Report #29thAUG-2024 & SEP-2024,10X-Atul-PD,8,3,2025-05-27T07:51:14Z,12,"Fee & Billing, TL Review, WFC, Confirmation Given, Product Head Reviewed",,1060004325688,,,Fee and Billing,Change Request
+1328610,Book Store in 10X,10X-Atul-PD,8,1,2025-05-28T13:00:08Z,11,,,1060004975270,,,Book Store,Change Request
+1328579,Relevent name should be there for downloaded files,10X-Shobia-PD,8,1,2025-05-28T12:10:06Z,11,"Examination, Product Head Reviewed",,1060004325487,,,Examination & Result Analysis,Prod. Enhancement
+1328558,Auto Permission/Access for new staffs,10X-Sandhya-PD,8,1,2025-05-28T11:43:38Z,11,"School Online, Product Head Reviewed",,1060023086492,,,School Online,Prod. Enhancement
+1328552,Auto Time slot assignment for new staffs,10X-Sandhya-PD,8,1,2025-05-28T11:36:32Z,11,"Staff Attendance and Leave, Product Head Reviewed",,1060023086492,,,Staff Attendance and Leave,Prod. Enhancement
+1328542,Auto Generation & Sharing of New Login Credentials for new students,10X-Sandhya-PD,8,1,2025-05-28T11:28:20Z,11,"Student Inforamtion, Product Head Reviewed",,1060004975270,,,Student Information,Prod. Enhancement
+1328528,In Payroll >> Reports >> Acquitance roll >> Need to update caption,10X-Sandhya-PD,8,1,2025-05-28T11:10:30Z,11,Staff Administration and Payroll,,1060023084288,,,Staff Administration & Payroll,Change Request
+1328523,In Payroll >> Reports >> Acquitance roll >> Need to update caption,10X-Sandhya-PD,8,3,2025-05-28T11:09:00Z,11,Staff Administration and Payroll,,1060023084288,,,Staff Administration & Payroll,Change Request
+1328461,Student info #1471,10X-Sandhya-PD,8,2,2025-05-28T10:06:16Z,11,Student Inforamtion,,1060001529614,,,Student Information,Change Request
+1328444,Fee #1471,10X-Atul-PD,8,2,2025-05-28T09:46:48Z,11,"Fee & Billing, WFC, Confirmation Given",,1060023085785,,,Fee and Billing,Change Request
+1328049,Request for Alphabetical Order in Classwise Transfer Certificate Preview || CODE: SJBSJL,10X-Sandhya-PD,8,2,2025-05-28T05:58:24Z,11,"Student Inforamtion, TL Review",,1060023084904,,,Student Information,Change Request
+1327813,Assign Multiple Optional Subjects to Students Simultaneously,10X-Shobia-PD,8,1,2025-05-28T03:58:50Z,12,Examination,,1060004324401,,,Examination & Result Analysis,Prod. Enhancement
+1329272,Fee Report Modification,10X-Atul-PD,8,3,2025-05-29T09:21:01Z,10,"Fee & Billing, Product Head Reviewed",,1060023085785,,,Fee and Billing,Change Request
+1329057,BULK ACTIVITY ASSIGNER || #1180 SFSACD,10X-Sandhya-PD,8,3,2025-05-29T06:44:24Z,10,"Student Inforamtion, TL Review",,1060004324590,,,Student Information,Change Request
+1329050,"Need to add Blood Group Filed in Student Field Updation || 1938#HindalcoPrimary School,Unit-3,Renukoot,Uttar Pradesh",10X-Sandhya-PD,8,3,2025-05-29T06:36:18Z,10,"Student Inforamtion, TL Review",,1060004324590,,,Student Information,Change Request
+1329039,"Any report like Student list, Class list etc., Class and Section name should be display as shown in attachment",10X-Sandhya-PD,8,1,2025-05-29T06:27:06Z,10,"Student Inforamtion, Prod. Enhancement, TL Review",,1060001529614,,,Student Information,Prod. Enhancement
+1330359,Data transfer from 24-25 to 25-26,10X-Sandhya-PD,8,4,2025-05-30T12:00:35Z,9,Staff Administration and Payroll,,1060001529614,,,Staff Administration & Payroll,Change Request
+1330337,Regarding loss of pay tag,10X-Sandhya-PD,8,3,2025-05-30T11:30:47Z,9,"Staff Administration and Payroll, TL Review, WFC, Confirmation Given",,1060027877850,,,Staff Administration & Payroll,Change Request
+1330332,"Urgent Issue – Teacher Not Displaying in Time Table List (Jai Rani, Balussery # 2111)",10X-Sandhya-PD,8,3,2025-05-30T11:29:06Z,9,"Time Table, WFC, Confirmation Given",,1060004324169,,,Time-Table,Change Request
+1330322,Reg: Max Attendance is not Updating,10X-Arpit-PD,8,3,2025-05-30T11:24:15Z,9,Mobile App,,1060023089564,,,Mobile Application,Incident
+1330298,Freshdesk Ticket Assign,10X-Arpit-PD,8,1,2025-05-30T11:03:19Z,9,TL Review,,1060014525993,,,Other,Change Request
+1330112,Time Table Upload 10X || 123# PD_Entab - Product & Service Enhancement,10X-Sandhya-PD,8,3,2025-05-30T08:24:05Z,9,"School Online, TL Review, Product Head Reviewed",,1060004324169,,,School Online,Change Request
+1330084,Syllabus Permission 10x || 123# PD_Entab - Product & Service Enhancement,10X-Sandhya-PD,8,3,2025-05-30T08:07:46Z,9,"School Online, TL Review",,1060001529614,,,School Online,Change Request
+1329905,Registration Document,10X-Atul-PD,8,1,2025-05-30T06:20:08Z,9,Registration,,1060004975270,,,Registration & Admission,Change Request
+1329709,Log details are coming blank || Payroll,10X-Sandhya-PD,8,3,2025-05-30T04:34:19Z,9,Staff Administration and Payroll,,1060023084288,,,Staff Administration & Payroll,Change Request
+1329624,Student profile is updation from,10X-Sandhya-PD,8,1,2025-05-30T03:36:01Z,10,"School Online, TL Review, WFC, Confirmation Given",,1060004975270,,,School Online,Change Request
+1331006,Error in Login user id updation form,10X-Sandhya-PD,8,4,2025-05-31T11:05:47Z,8,"School Online, Reopened",,1060023086492,,,School Online,Incident
+1330697,Permanent Deletion of Deactivated Management ID,10X-Sandhya-PD,8,3,2025-05-31T06:19:19Z,8,"School Online, TL Review",,1060001529614,,,School Online,Change Request
+1332236,NEED TO CREATE NARAYANA GROUP DASHBOARD,10X-Sandhya-PD,16,3,2025-06-02T13:23:49Z,6,"Student Inforamtion, WFC",,1060004324169,,,Student Information,Change Request
+1332225,"Project Readiness on a Blank Database ||  2206--Christa Jyothi School, Arkalgud, Karnataka (State Board)",10X-Sandhya-PD,8,2,2025-06-02T13:02:49Z,6,,,1060023086153,,,Other,Change Request
+1332133,Date Sequence issue in Head Wise Onling Settlement Details,10X-Atul-PD,8,1,2025-06-02T11:10:32Z,6,,,1060004975270,,,Fee and Billing,Incident
+1332127,Implementation of Callback API & Settlement Callback API,10X-Atul-PD,8,1,2025-06-02T11:08:14Z,6,,,1060001536356,,,Fee and Billing,Prod. Enhancement
+1332103,Petty #1471,10X-Atul-PD,8,2,2025-06-02T10:48:28Z,6,Fee & Billing,,1060023085785,,,Fee and Billing,Change Request
+1332066,TC #1471,10X-Sandhya-PD,8,2,2025-06-02T10:22:57Z,6,Student Inforamtion,,1060001529614,,,Student Information,Change Request
+1331993,Reconsider button not visible on Unit Head and CEO dashboard,10X-Sandhya-PD,8,1,2025-06-02T09:21:11Z,6,Staff Administration and Payroll,,1060023083789,,,Staff Administration & Payroll,Change Request
+1331858,"FEE RECEIPT AND REQ SLIP ->QUARTER FEE GROUP > INST NAME ISSUE || 140#ASN Sr. Sec. School, Mayur Vihar, New Delhi",10X-Atul-PD,8,4,2025-06-02T07:39:20Z,6,"Fee & Billing, WFC, Confirmation Given",,1060001536356,,,Fee and Billing,Change Request
+1331799,Regarding Student ledger importing in Tally,10X-Sandhya-PD,8,3,2025-06-02T07:10:06Z,6,"Student Inforamtion, TL Review",,1060004975270,,,Student Information,Change Request
+1331797,Library Old Accession,10X-Sandhya-PD,8,1,2025-06-02T07:09:32Z,6,Library,,1060018581359,,,Library Management,Change Request
+1331682,Buffer time required for absentees message to the parents,10X-Sandhya-PD,8,3,2025-06-02T06:26:17Z,6,"Student Attendance, TL Review",,1060001529614,,,Student Attendance,Change Request
+1331417,ABG Management Dashboard Changes,10X-Sandhya-PD,8,1,2025-06-02T04:20:54Z,6,Preference,,1060001529614,,,Preference,Change Request
+1333269,Fee #1471,10X-Atul-PD,8,3,2025-06-03T14:19:37Z,5,,,1060001536356,,,Fee and Billing,Change Request
+1333243,Regarding request for fee no. same as of Adm.no. series after promotion,10X-Sandhya-PD,8,3,2025-06-03T12:57:54Z,5,"Student Inforamtion, TL Review",,1060001529614,,,Student Information,Change Request
+1333119,Regarding wrong amount showing in receipt details,10X-Atul-PD,8,3,2025-06-03T11:36:33Z,5,"Fee & Billing, TL Review",,1060004325688,,,Fee and Billing,Change Request
+1333114,Reg- Management Dashboard,10X-Sandhya-PD,8,3,2025-06-03T11:32:55Z,5,,,1060001529614,,,School Online,Change Request
+1333027,Reg. addition of multi school group setting form,10X-Sandhya-PD,8,1,2025-06-03T10:14:13Z,5,,,1060001529614,,,Preference,Change Request
+1333016,Student Photo upload,10X-Sandhya-PD,8,1,2025-06-03T10:04:37Z,5,,,1060001529614,,,Student Information,Change Request
+1332992,"Regarding Parent Portal SMS details provision (814#J K Public School, Kunjwani, Jammu)",10X-Atul-PD,8,2,2025-06-03T09:41:49Z,5,"School Online, TL Review",,1060001536356,,,School Online,Change Request
+1332891,Changes in Event Management,10X-Sandhya-PD,8,2,2025-06-03T08:22:53Z,5,School Online,,1060001529614,,,School Online,Change Request
+1332697,Reg Issue in Income Tax Form,10X-Sandhya-PD,8,4,2025-06-03T06:27:55Z,5,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Incident
+1334206,Customizable attendance duration report,10X-Sandhya-PD,8,2,2025-06-04T11:26:32Z,4,"Staff Attendance and Leave, TL Review",,1060001529614,,,Staff Attendance and Leave,Change Request
+1334173,Addition of Dropdown in Staff Attendance,10X-Sandhya-PD,8,3,2025-06-04T11:05:34Z,4,"Staff Attendance and Leave, TL Review",,1060001529614,,,Staff Attendance and Leave,Change Request
+1334154,System report issue,10X-Sandhya-PD,8,2,2025-06-04T10:57:11Z,4,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Change Request
+1334144,Reg. Campuscare Application || Login Issue- URL not working || #830 BVMTRM,PD- Arpit,8,4,2025-06-04T10:49:04Z,4,"Mobile App, TL Review",,1060023090304,,,Mobile Application,Incident
+1334142,Reg. Campuscare Application || Login Issue- URL not working || #829 BVMCLN,PD- Arpit,8,4,2025-06-04T10:48:42Z,4,"Mobile App, TL Review",,1060023090304,,,Mobile Application,Incident
+1334139,Reg. Campuscare Application || Login Issue- URL not working || #827 BVMSKN,PD- Arpit,8,4,2025-06-04T10:48:00Z,4,"Mobile App, TL Review",,1060023090304,,,Mobile Application,Incident
+1333837,Birthday Email Mapping,10X-Sandhya-PD,8,3,2025-06-04T07:44:27Z,4,"School Online, TL Review",,1060001529614,,,School Online,Change Request
+1333815,Student Attendance School,10X-Sandhya-PD,8,3,2025-06-04T07:32:37Z,4,"School Online, TL Review",,1060001529614,,,School Online,Change Request
+1333779,"To show the installment as per the priority assigned in the installment master form(814#J K Public School, Kunjwani, Jammu)",10X-Atul-PD,8,1,2025-06-04T07:10:22Z,4,"Fee & Billing, TL Review, Product Head Reviewed, WFC, Confirmation Given",,1060001536356,,,Fee and Billing,Change Request
+1333655,REG FRONT OFFICE,10X-Sandhya-PD,8,1,2025-06-04T06:12:42Z,4,Front Office,,1060023084288,,,Front Office,Change Request
+1333653,Addition of Staff Leave & Attendance Module (with Biometric Integration),10X-Sandhya-PD,8,4,2025-06-04T06:12:09Z,4,"Staff Attendance and Leave, TL Review",,1060004324169,,,Staff Attendance and Leave,Change Request
+1333609,Salary Statement for Signature || JSHLPB,10X-Sandhya-PD,8,3,2025-06-04T05:50:18Z,4,,,1060001529614,,,Staff Administration & Payroll,Change Request
+1333600,Payroll ->Payroll Reports -> Acquitance Report : Kindly Provide Total Employee count at the bottom of the Report,10X-Sandhya-PD,8,2,2025-06-04T05:46:56Z,4,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Change Request
+1333568,SMS activation through ENTABI,10X-Atul-PD,8,1,2025-06-04T05:34:30Z,4,,,1060001536356,,,Sms System,Change Request
+1333453,Redirect to Appraisal form from Notification,10X-Sandhya-PD,8,1,2025-06-04T04:40:15Z,4,Staff Administration and Payroll,,1060023083789,,,Staff Administration & Payroll,Change Request
+1333392,Annual Discount Issue on the basis of A/C TYPE -TCSERP & CISERP,10X-Atul-PD,8,1,2025-06-04T03:59:37Z,5,,,1060023085785,,,Fee and Billing,Change Request
+1335268,"CONCESSION TYPE FIELD IN SI || 140#ASN Sr. Sec. School, Mayur Vihar, New Delhi",10X-Sandhya-PD,8,3,2025-06-05T13:50:45Z,3,Student Inforamtion,,1060004975270,,,Student Information,Change Request
+1335226,Field Addition,10X-Sandhya-PD,8,1,2025-06-05T12:41:15Z,3,,,1060001529614,,,Student Information,Change Request
+1335216,Training Report Issue,10X-Sandhya-PD,8,3,2025-06-05T12:29:36Z,3,"Staff Administration and Payroll, TL Review, WFC, Confirmation Given",,1060018581359,,,Staff Administration & Payroll,Change Request
+1335215,Regarding Entab offline assistance,10X-Sandhya-PD,8,3,2025-06-05T12:29:20Z,3,"Preference, TL Review",,1060001529614,,,Preference,Change Request
+1335210,Enquiry Issue,10X-Atul-PD,8,4,2025-06-05T12:23:31Z,3,Registration,,1060001536356,,,Registration & Admission,Change Request
+1335165,"Reg. addition of multi school group setting form in (2207, 2208, 2209)",10X-Sandhya-PD,8,1,2025-06-05T11:41:23Z,3,,,1060001529614,,,Preference,Change Request
+1335142,Issue in online payment for ADM 1565,10X-Arpit-PD,8,3,2025-06-05T11:20:14Z,3,"Fee & Billing, TL Review, Mobile App",,1060014525993,,,Mobile Application,Change Request
+1335064,Payroll ->Payroll Reports -> Combined Challan Issues (For May 2025),10X-Sandhya-PD,8,4,2025-06-05T10:22:08Z,3,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Incident
+1335001,"""Iswas"" tag is not giving value in certificate || 272#St. Therese's High School, Padrauna",10X-Sandhya-PD,8,3,2025-06-05T09:56:03Z,3,Student Inforamtion,,1060004324590,,,Student Information,Incident
+1334982,Regarding admission no.assigner || CODE: DFSTNA,10X-Sandhya-PD,8,3,2025-06-05T09:43:50Z,3,"Student Inforamtion, TL Review",,1060001529614,,,Student Information,Prod. Enhancement
+1334925,Request to Link School Staff Attendance System with Entab,10X-Sandhya-PD,8,3,2025-06-05T09:04:13Z,3,"Biometric Attendance, TL Review",,1060001529614,,,Biometric Integration,Change Request
+1334795,Request to Link School Staff Attendance System with Entab,10X-Sandhya-PD,8,3,2025-06-05T07:28:25Z,3,"Biometric Attendance, TL Review",,1060001529614,,,Biometric Integration,Change Request
+1334716,ADD ON INVENTORY SOFTWARE MODULE TO 10X SOFTWARE,10X-Atul-PD,8,1,2025-06-05T06:54:27Z,3,"Inventory, TL Review",,1060001536356,,,Inventory,Change Request
+1334647,Security Fee adjustment,10X-Atul-PD,8,1,2025-06-05T06:22:27Z,3,,,1060001536356,,,Fee and Billing,Change Request
+1334587,Registration #1471,10X-Atul-PD,8,2,2025-06-05T05:46:06Z,3,,,1060001536356,,,Registration & Admission,Change Request
+1334562,Online fee Payment at parent end #1471,10X-Atul-PD,8,2,2025-06-05T05:34:51Z,3,,,1060001536356,,,Fee and Billing,Change Request
+1334558,Event Module,10X-Sandhya-PD,8,3,2025-06-05T05:31:26Z,3,,,1060023084071,,,School Online,Change Request
+1334523,"EXCESS AMOUNT || 1707#BLS World School, Gr. Noida West, Uttar Pradesh",10X-Atul-PD,8,3,2025-06-05T05:10:26Z,3,,,1060001536356,,,Fee and Billing,Change Request
+1334449,"Excess amount is showing in current session 10x but as we checked in MVC we are not able to found excess amount for this student, kindly do the the need full.",10X-Atul-PD,8,3,2025-06-05T04:31:15Z,3,"Fee & Billing, TL Review",,1060004325688,,,Fee and Billing,Change Request
+1336113,Learning management,10X-Sandhya-PD,8,1,2025-06-06T11:47:32Z,2,,,1060004975270,,,School Online,Prod. Enhancement
+1336112,Escalation Management,10X-Sandhya-PD,8,1,2025-06-06T11:46:45Z,2,,,1060004975270,,,School Online,Prod. Enhancement
+1336111,Group Visiblity,10X-Sandhya-PD,8,1,2025-06-06T11:46:02Z,2,,,1060004975270,,,School Online,Prod. Enhancement
+1336099,Payroll=> Pay Head Priority Assigner,10X-Sandhya-PD,8,4,2025-06-06T11:29:32Z,2,Staff Administration and Payroll,,1060023084288,,,Staff Administration & Payroll,Incident
+1335992,SI Field values not coming in reports || #1189 SFSHSC,10X-Sandhya-PD,8,4,2025-06-06T09:36:26Z,2,"Student Inforamtion, TL Review",,1060004324590,,,Student Information,Incident
+1335966,Delete Fee Data AY 24-25,10X-Atul-PD,8,3,2025-06-06T09:22:18Z,2,"Fee & Billing, TL Review",,1060001536356,,,Fee and Billing,Change Request
+1335872,Bus Route Request on mobile app,10X-Arpit-PD,8,2,2025-06-06T08:12:36Z,2,"Mobile App, TL Review",,1060014525993,,,Mobile Application,Change Request
+1335787,Fee & Billing => Fixed Amount,10X-Atul-PD,8,4,2025-06-06T07:12:32Z,2,,,1060001536356,,,Fee and Billing,Incident
+1335776,SALARY SLIP EMAIL REQUIRED,10X-Sandhya-PD,8,2,2025-06-06T07:08:22Z,2,"Staff Administration and Payroll, Prod. Enhancement, TL Review",,1060001529614,,,Staff Administration & Payroll,Change Request
+1335758,Reg - Fee Installement not getting Saved Correctly || #2077 HFSTM,10X-Atul-PD,8,4,2025-06-06T07:00:36Z,2,"Registration, TL Review",,1060001536356,,,Registration & Admission,Incident
+1335679,Reg-  Parent - Mobile App  || Gujarati Mumbai #1499,PD- Arpit,8,4,2025-06-06T06:19:58Z,2,Mobile App,,1060004975270,,,Mobile Application,Incident
+1335636,Kindly Remove 'Play' Class – Data Not in Use But Still Reflecting,10X-Sandhya-PD,8,4,2025-06-06T05:52:46Z,2,"Preference, TL Review",,1060001529614,,,Preference,Change Request
+1335576,"Regarding issue with Employee_Salary Summary_statment(2001 # Vivekananda Kendra Vidyalaya Hurda, Rajasthan)",10X-Sandhya-PD,8,3,2025-06-06T05:23:11Z,2,"Staff Administration and Payroll, TL Review",,1060001529614,,,Staff Administration & Payroll,Change Request
+1335572,"Reg Fee Analysis !!1574#St. Vincent Pallotti School, Nashik, Maharashtra",10X-Atul-PD,8,3,2025-06-06T05:20:31Z,2,"Fee & Billing, TL Review",,1060001536356,,,Fee and Billing,Incident
+1335532,"SFS, Ettumanoor # 1470 (Reg : Staff Photos displaying wrong for some in Birthday option)",10X-Arpit-PD,8,4,2025-06-06T04:52:55Z,2,,,1060004325820,,,Mobile Application,Incident
+1335513,SMS activation through ENTABI,10X-Atul-PD,16,1,2025-06-06T04:42:02Z,2,"SMS, WFC",,1060001536356,,,Sms System,Change Request
+1335510,Excess Amount showing,10X-Atul-PD,8,4,2025-06-06T04:41:09Z,2,"Fee & Billing, TL Review",,1060001536356,,,Fee and Billing,Incident
+1335440,"REQ SLIP WITH DUE -CON-BALANCE || 140#ASN Sr. Sec. School, Mayur Vihar, New Delhi",10X-Atul-PD,8,3,2025-06-06T04:09:37Z,3,,,1060001536356,,,Fee and Billing,Change Request
+1336501,ID card #1471,10X-Sandhya-PD,8,2,2025-06-07T18:07:47Z,1,,,1060001529614,,,Student Information,Change Request
+1336422,library,10X-Sandhya-PD,8,4,2025-06-07T11:22:07Z,1,"Library, TL Review",,1060018581359,,,Library Management,Incident
+1336343,Reg Related to Reconcillation Report of MVC and 10x,10X-Atul-PD,8,3,2025-06-07T07:09:35Z,1,"Fee & Billing, TL Review",,1060001536356,,,Fee and Billing,Incident
+1336280,Delete-Library Data,10X-Sandhya-PD,8,1,2025-06-07T05:03:24Z,1,,,1060001529614,,,Library Management,Change Request
+1336233,Reg: SMS Activation || SGVNSHR,10X-Atul-PD,8,1,2025-06-07T04:03:16Z,2,,,1060001536356,,,Sms System,Change Request
